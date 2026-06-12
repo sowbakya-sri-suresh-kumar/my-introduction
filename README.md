@@ -1,4 +1,4 @@
-#cHi, I'm Sowbakya Sri
+# Hi, I'm Sowbakya Sri
 AI & Data Science Student
 
 ## About Me
